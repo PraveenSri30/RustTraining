@@ -1,0 +1,2 @@
+# RustTraining
+Topic covered
